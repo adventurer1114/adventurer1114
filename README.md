@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-It's very nice to meet you! I am a software engineer with around 7 years of experience in development. 
+#f03c15 It is very nice to meet you! I am a software engineer with around 7 years of experience in development. 
 
 My Expertise lies in SPA Development with JavaScript libraries and frameworks such as React, Vue, Angular, Node, Express and extra. 
 I have worked with different aspects of React/Angualr/Vue JavaScript, TypeScript, WebHook, Axios, Node, GraphQL, and MongoDB along with all sorts of API/library integration, implemented various methodologies, different architectures and created pretty animations.
 
-- ![#f03c15](I strongly value Trust & Credit not only to satisfy my customers but also to prove myself.)`#f03c15`
+I strongly value Trust & Credit not only to satisfy my customers but also to prove myself.
 
 ## ⚡ Technologies
 
