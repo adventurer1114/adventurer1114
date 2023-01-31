@@ -6,11 +6,17 @@ I have worked with different aspects of React/Angualr/Vue JavaScript, TypeScript
 
 I strongly value _**Trust**_ & _**Credit**_ not only to satisfy my customers but also to prove myself as well.
 
-## ⚡ Technologies
+## 🛠️ Skills
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
