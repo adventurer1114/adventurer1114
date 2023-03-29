@@ -6,6 +6,8 @@ I have worked with different aspects of React/Angualr/Vue JavaScript, TypeScript
 
 I strongly value _**Trust**_ & _**Credit**_ not only to satisfy my customers but also to prove myself as well.
 
+Let's build a great dream together!
+
 ## 🛠️ Skills
 
 ### Languages
