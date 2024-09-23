@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-It is very nice to meet you! I am a software engineer with around 7 years of experience in development.<br>
-My Expertise lies in SPA Development with JavaScript libraries and frameworks such as **React**, **Vue**, **Angular**, **Node**, **Express**, **Nest.js** and extra.<br>
-I have worked with different aspects of React/Angualr/Vue JavaScript, TypeScript, WebHook, Axios, Node, GraphQL, **Python**, **Django**, **Flask**, **Java Spring**, **.Net**  and MongoDB along with all sorts of API/library integration, implemented various methodologies, different architectures and created pretty animations.
+I'm a Software Engineer with approximately 7 years of experience in full-stack development, specializing in Single Page Applications (SPA) using JavaScript frameworks and libraries such as **React**, **Angular**, **Vue**, and **Node.js**. 
 
-I strongly value _**Trust**_ & _**Credit**_ not only to satisfy my customers but also to prove myself as well.
+My expertise extends to **TypeScript**, **WebHooks**, **Axios**, **GraphQL**, **Python**, **Django**, **Flask**, **Java Spring**, **.NET**, **PostgreSQL**, **MySQL** and **MongoDB**.
 
-Let's build a great dream together!
+I am very familiar with Cloud Services like **AWS Elastic BeanStalk**, **AWS EC2**, **AWS Lamda**, **AWS Cognito**, **Google Cloud** and so on.
+
+Throughout my career, I’ve integrated APIs, libraries, and implemented diverse architectures, enhancing user experiences with clean, efficient code and elegant animations. I take pride in delivering high-quality solutions while embracing various development methodologies.
+
+I value trust and accountability, striving to exceed expectations and build lasting professional relationships. 
+Let’s collaborate and bring our ideas to life!
 
 ## 🛠️ Skills
 
