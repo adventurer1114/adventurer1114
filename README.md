@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer with approximately 7 years of experience in full-stack development, specializing in Single Page Applications (SPA) using JavaScript frameworks and libraries such as **React**, **Angular**, **Vue**, and **Node.js**. 
+I'm a Software Engineer with approximately 9 years of experience in full-stack development, specializing in Single Page Applications (SPA) using JavaScript frameworks and libraries such as **React**, **Angular**, **Vue**, and **Node.js**. 
 
 My expertise extends to **TypeScript**, **WebHooks**, **Axios**, **GraphQL**, **Python**, **Django**, **Flask**, **Java Spring**, **.NET**, **PostgreSQL**, **MySQL** and **MongoDB**.
 
